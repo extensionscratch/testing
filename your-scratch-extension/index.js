@@ -46,7 +46,7 @@ class Scratch3YourExtension {
                     defaultValue: 0
                   }
                 }
-              },
+              }
 				
             ]
         };
